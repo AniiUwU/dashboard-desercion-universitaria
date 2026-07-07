@@ -1,14 +1,14 @@
 [theme]
-# Color principal (para botones y métricas destacadas)
+# Color principal (para texto destacado y gráficos)
 primaryColor = "#FF6699"
 
-# Color de fondo principal (blanco para mantenerlo limpio)
-backgroundColor = "#FFFFFF"
+# Color de fondo principal (¡Ahora sí, un rosado pastel muy suave!)
+backgroundColor = "#FFF0F5"
 
-# Color de fondo secundario (un rosado muy clarito para los paneles laterales y fondos de gráficas)
+# Color de fondo secundario (rosado un poquito más oscuro para contrastar)
 secondaryBackgroundColor = "#FFE6F2"
 
-# Color del texto (un gris oscuro para que resalte bien y sea fácil de leer)
+# Color del texto (un gris oscuro para que sea fácil de leer)
 textColor = "#4A4A4A"
 
 # Tipo de fuente
