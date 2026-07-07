@@ -4,7 +4,7 @@ import plotly.express as px
 
 # Configuración inicial de la página
 st.set_page_config(page_title="Dashboard: Deserción Universitaria", layout="wide")
-st.title("🎓 Análisis de Deserción Universitaria")
+st.set_page_config(page_title="Dashboard: Deserción Universitaria", page_icon="🐱", layout="wide")
 st.markdown("Dashboard interactivo para la toma de decisiones académicas.")
 
 # Cargar los datos que generamos en el Paso 4
